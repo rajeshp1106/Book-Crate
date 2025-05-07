@@ -7,13 +7,15 @@ A book recommender website with GUI
 - 🔍 **Search & Filter** - Find books by title, author, or publisher
 - 🤖 **Smart Recommendations** - Get personalized book suggestions
 - 📱 **Responsive Design** - Works on desktop and mobile devices
-- 📊 **Pagination** - Browse through 200,000+ books efficiently
+- 📊 **Pagination** - Browse through 2000+ books efficiently
 
 ## Demo
 [Live Demo](#) (Add your deployment link here)
 
 ![image](https://github.com/user-attachments/assets/6ff3fce8-67e4-4ff7-90ce-de312912804d)
+
 ![image](https://github.com/user-attachments/assets/0cdec609-5912-4f52-af6d-2a60c5856956)
+
 ![image](https://github.com/user-attachments/assets/5c7e6667-e4d7-4d85-9587-eb537b2a0a17)
 
 
